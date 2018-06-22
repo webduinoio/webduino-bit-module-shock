@@ -1,0 +1,11 @@
+  <category id="catShock" index="7">
+    <block type="variables_set">
+      <field name="VAR">shake</field>
+      <value name="VALUE">
+        <block type="shock_new">
+          <field name="pin_">1</field>
+        </block>
+      </value>
+    </block>
+    <block type="shock_event"></block>
+  </category>

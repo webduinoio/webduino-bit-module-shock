@@ -1,0 +1,1 @@
+MSG.catShock = "Shake Switch";

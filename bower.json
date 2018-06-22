@@ -1,0 +1,20 @@
+{
+  "name": "webduino-bit-module-shock",
+  "description": "Block Module for shock senseor of Webduino:bit.",
+  "main": "BitShock-blockly.js",
+  "authors": "",
+  "license": "MIT",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "shock",
+    "webduino:bit"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
