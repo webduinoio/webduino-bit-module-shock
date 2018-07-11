@@ -3,8 +3,8 @@
 Block Module for shock senseor of Webduino:bit.
 
 ## Installation
-
-```shell
+#### bower
+```sh
 bower install https://github.com/webduinoio/webduino-bit-module-shock.git
 ```
 
