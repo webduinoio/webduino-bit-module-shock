@@ -1,1 +1,1 @@
-MSG.catShock = "震动开关";
+MSG.catShock_bit = "震动开关";

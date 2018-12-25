@@ -1,1 +1,1 @@
-MSG.catShock = "Shake Switch";
+MSG.catShock_bit = "Shake Switch";

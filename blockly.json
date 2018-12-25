@@ -1,6 +1,6 @@
 {
-  "types": ["shock_new", "shock_event"],
-  "category": "toolbox",
+  "types": ["shock_new_bit", "shock_event"],
+  "category": "catMenu2",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"

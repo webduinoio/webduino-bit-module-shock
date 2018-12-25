@@ -1,4 +1,4 @@
-Blockly.Msg.WEBDUINO_SHOCK_NEW = "震動開關，腳位";
+Blockly.Msg.WEBDUINO_SHOCK_NEW_BIT = "震動開關，(Bit) 腳位";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_WHEN = "當";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_WAS = "狀態為";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_TO = "時";

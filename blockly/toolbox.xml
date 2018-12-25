@@ -1,8 +1,8 @@
-  <category id="catShock" index="7">
+  <category id="catShock_bit" index="7" tags="bit">
     <block type="variables_set">
       <field name="VAR">shake</field>
       <value name="VALUE">
-        <block type="shock_new">
+        <block type="shock_new_bit" tags="bit">
           <field name="pin_">1</field>
         </block>
       </value>
